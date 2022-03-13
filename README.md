@@ -4,7 +4,7 @@
 
 {DAN CARA MENJALANKAN SCRIPT SHOUTDOWN WIFI}
 
-=================================
+=============================
 
 pkg update && pkg upgrade
 
