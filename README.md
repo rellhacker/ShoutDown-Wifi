@@ -1,5 +1,11 @@
 # ShoutDown-Wifi
 
+{CARA INSTALL SCRIPT SHOUTDOWN WIFI}
+
+{DAN CARA MENJALANKAN SCRIPT SHOUTDOWN WIFI}
+
+=================================
+
 pkg update && pkg upgrade
 
 
